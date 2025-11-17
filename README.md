@@ -33,3 +33,7 @@ Currently advancing through my 3rd year of `Software Engineering` at `ITMO Unive
     />
   </a>
 </div>
+
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KreezerIT/KreezerIT/output/github-contribution-grid-snake.svg" />
+</div>
