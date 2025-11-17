@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Главный заголовок с пульсирующим подчеркиванием -->
-  <span style="font-size: 2.5em; font-weight: bold; display: block;">𝕂𝕣𝕖𝕖𝕫𝕖𝕣𝕀𝕋</span>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="45%" height="4">
+  <span style="font-size: 5.0em; font-weight: bold; display: block;">𝕂𝕣𝕖𝕖𝕫𝕖𝕣𝕀𝕋</span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35%" height="4">
   
   <!-- Иконка кометы -->
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="60" />
