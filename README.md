@@ -1,8 +1,24 @@
-<h1 align="center">𝕂𝕣𝕖𝕖𝕫𝕖𝕣𝕀𝕋</a> 
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="60" /></h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23db2446&center=true&width=300&height=30&lines=Turning+Coffee+into+Code;Backend+Magician;Problem+Solver" alt="Typing SVG" />
-</h3>
+<div align="center">
+  <!-- Главный заголовок с пульсирующим подчеркиванием -->
+  <span style="font-size: 2.5em; font-weight: bold; display: block;">𝕂𝕣𝕖𝕖𝕫𝕖𝕣𝕀𝕋</span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="45%" height="4">
+  
+  <!-- Иконка кометы -->
+  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="60" />
+  
+  <br><br>
+  
+  <!-- Подзаголовок с пульсирующим подчеркиванием -->
+  <span style="font-size: 1.3em; font-weight: bold; display: block;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23db2446&center=true&width=300&height=25&lines=Turning+Coffee+into+Code;Backend+Magician;Problem+Solver" alt="Typing SVG" />
+  </span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8a2-b1e6-48a2-9c0e-7e3ee18dc8b1.gif" width="55%" height="3">
+</div>
+
+<!-- Пульсирующая линия -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ## `About me`
 Hi, **I'm Vyacheslav** - a `Backend Developer`, specialized in `Go` • `Scalable Architecture` • `Microservices`.
