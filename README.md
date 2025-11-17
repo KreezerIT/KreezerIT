@@ -20,3 +20,16 @@ Currently advancing through my 3rd year of `Software Engineering` at `ITMO Unive
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## `Contacts`
+
+<div align="left">
+  <a href="https://t.me/slavakrez" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+      width="52"
+      height="40"
+      alt="Telegram"
+    />
+  </a>
+</div>
